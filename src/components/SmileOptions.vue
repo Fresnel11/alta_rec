@@ -30,13 +30,10 @@ function resetsmileEffect() {
 </script>
 
 <style scoped>
-/* Importer la police Montserrat pour le titre */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
-/* Importer la police Inter Regular pour les textes simples */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
 
-/* Styles supplémentaires pour les sliders si nécessaire */
 input[type="range"] {
     transition: all 0.2s ease;
 }
@@ -47,7 +44,6 @@ input[type="range"]:focus {
 }
 
 
-/* Appliquer la police Inter aux textes simples */
 body,
 label,
 p,

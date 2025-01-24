@@ -21,5 +21,4 @@ import AsideView from './views/AsideView.vue'
 </template>
 
 <style scoped>
-/* Vous pouvez ajouter des styles supplémentaires si nécessaire */
 </style>
